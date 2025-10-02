@@ -1,5 +1,5 @@
 ## Login-Register-form  | Authentication form 
-- 📌<a href="https://rickandmorthy-react.netlify.app/" rel="nofollow">Demo</a>
+- 📌<a href="https://bitashahsavan.github.io/login_logOut_form/index.html" rel="nofollow">Demo</a>
 - 🙋‍♀️Developed by Bita Shahsavan
 - 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
 - 📆Created : june 2024
@@ -15,6 +15,7 @@
 # 🌟 Features
 1. Switching between the registration and login page
 2. form validation
+3. full responsive by media query
 
 # 🛠️ Technologies Used
 . HTML | CSS | Javascript 
